@@ -1,0 +1,36 @@
+{
+  "escape_code": 731,
+  "game_objects": [
+    {
+      "name": "Sweater",
+      "appearance": "It's a blue sweater that had the number 12 switched on it.",
+      "feel": "Someone has unstitched the second number, leaving only the 1.",
+      "smell": "The sweater smells of laundry detergent."
+    },
+    {
+      "name": "Chair",
+      "appearance": "It's a wooden chair with only 3 legs.",
+      "feel": "Someone had deliberately snapped off one of the legs.",
+      "smell": "It smells like old wood."
+    },
+    {
+      "name": "Journal",
+      "appearance": "The final entry states that time should be hours then minutes then seconds (H-M-S).",
+      "feel": "The cover is worn and several pages are missing.",
+      "smell": "It smells like musty leather."
+    },
+    {
+      "name": "Bowl of soup",
+      "appearance": "It appears to be tomato soup.",
+      "feel": "It has cooled down to room temperature.",
+      "smell": "You detect 7 different herbs and spices."
+    },
+    {
+      "name": "Clock",
+      "appearance": "The hour hand is pointing towards the soup, the minute hand towards the chair, and the second hand towards the sweater.",
+      "feel": "The battery compartment is open and empty.",
+      "smell": "It smells of plastic."
+    }
+  ]
+  
+}
